@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P229\P22915092022\AnonymObjectClass\bin\Debug\netcoreapp3.1\AnonymObjectClass.exe
+C:\Users\hamid.mammadov\Desktop\P229\P22915092022\AnonymObjectClass\bin\Debug\netcoreapp3.1\AnonymObjectClass.deps.json
+C:\Users\hamid.mammadov\Desktop\P229\P22915092022\AnonymObjectClass\bin\Debug\netcoreapp3.1\AnonymObjectClass.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P229\P22915092022\AnonymObjectClass\bin\Debug\netcoreapp3.1\AnonymObjectClass.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P229\P22915092022\AnonymObjectClass\bin\Debug\netcoreapp3.1\AnonymObjectClass.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22915092022\AnonymObjectClass\bin\Debug\netcoreapp3.1\AnonymObjectClass.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22915092022\AnonymObjectClass\obj\Debug\netcoreapp3.1\AnonymObjectClass.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22915092022\AnonymObjectClass\obj\Debug\netcoreapp3.1\AnonymObjectClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P229\P22915092022\AnonymObjectClass\obj\Debug\netcoreapp3.1\AnonymObjectClass.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22915092022\AnonymObjectClass\obj\Debug\netcoreapp3.1\AnonymObjectClass.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P229\P22915092022\AnonymObjectClass\obj\Debug\netcoreapp3.1\AnonymObjectClass.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22915092022\AnonymObjectClass\obj\Debug\netcoreapp3.1\AnonymObjectClass.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22915092022\AnonymObjectClass\obj\Debug\netcoreapp3.1\AnonymObjectClass.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22915092022\AnonymObjectClass\obj\Debug\netcoreapp3.1\AnonymObjectClass.genruntimeconfig.cache
